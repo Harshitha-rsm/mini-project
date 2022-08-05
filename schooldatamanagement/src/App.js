@@ -6,7 +6,7 @@ import { Link } from "react-router-dom"
 function App() {
   return (
     <div className="App">
-      <h1>Hewllo</h1>
+       <h1>Hello</h1> 
       <Home/>
     </div>
   );
