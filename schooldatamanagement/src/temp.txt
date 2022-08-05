@@ -1,0 +1,5 @@
+<Card style={{maxWidth:512, margin:"0 auto",textAlign:"center",fontSize:'24px',color:'blueviolet'}}>SIGN IN</Card>
+      <CardContent>
+        
+      </CardContent>
+      <Card style={{maxWidth:512,margin:"0 auto",textAlign:"center",fontSize:'24px',color:'blueviolet'}}>SIGN UP</Card>
